@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BitTacToe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BitTacToe_jar</output-path>
+    <root id="archive" name="BitTacToe.jar">
+      <element id="module-output" name="BitTacToe" />
+    </root>
+  </artifact>
+</component>
