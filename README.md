@@ -1,3 +1,3 @@
 # BitTacToe
-## A tiny, bit board tic tac toe written featuring several clever design patterns. :D
+## A tiny, bit board tic tac toe featuring several clever design patterns. :D
 ![BitTacToe](art/BitTacToe.gif)
